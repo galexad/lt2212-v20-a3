@@ -9,6 +9,7 @@ python3 a3_features.py enron_sample outputfile.csv 1914
 where: 
 enron_sample(inputdir) = The input directory containing the data
 outputfile.csv(outputfile) = The csv output file with the feature table
+
 1914 (dims) -The output feature dimensions.
 
 there is a 5th argument (--test) = The percentage (integer) of instances to label as test.
