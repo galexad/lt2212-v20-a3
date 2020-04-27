@@ -21,6 +21,6 @@ Part2
 To be ran in the terminallike this:
 a3_model.py outputfile.csv
 
-I have completed the assignment by following different examples, including that of trimodule.py. It took me a while to figure out the sampling process, and it was a challenge to design the code in such a way that different functions could be used in a relatively efficient manner.
+I have completed the assignment by following different examples, including that of trimodule.py. It took me a while to figure out the sampling process, and it was a challenge to design the code in such a way that different functions could be used in a relatively efficient manner.But overall, I have learnt many new things while working on it.
 
 The results are not that good, just as expected, probably due to class imbalance.
